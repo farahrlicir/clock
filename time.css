@@ -12,4 +12,9 @@ body{
     transform:translate(-50%,-50%);
     top:50%;
     left:50%;
+    background:linear-gradient(135deg, #A8DF8E, #F3FDE8, #FFE5E5, #FFBFBF);
+    padding:7px;
+}
+.time{
+    background-color:black;
 }
