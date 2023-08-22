@@ -1,0 +1,15 @@
+body{
+    margin:0%;
+    padding:0%;
+    background-color: black;
+}
+.container{
+    font-family:Arial;
+    font-weight: bold;
+    color:white;
+    font-size:60px;
+    position:absolute;
+    transform:translate(-50%,-50%);
+    top:50%;
+    left:50%;
+}
